@@ -1,0 +1,12 @@
+https://github.com/torvalds/linux
+https://github.com/apple/darwin-xnu
+https://github.com/dom96/nimkernel
+https://github.com/malwarepad/cavOS
+https://github.com/EHowardHill/CinemintOS
+https://github.com/benson0402/OS-From-Scratch
+https://github.com/dhruvdabhi101/riscv-kernel
+https://github.com/haileys/rustboot
+https://github.com/mattmassicotte/kernel-tutorial
+https://github.com/chipsetx/Simple-Kernel-in-C-and-Assembly
+https://github.com/cia-foundation/TempleOS
+https://github.com/developerc76/snowleopard
